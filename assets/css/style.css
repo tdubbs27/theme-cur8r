@@ -24,7 +24,7 @@ body {
   font-family: 'Lato', helvetica, sans-serif;
   height: 100%;
   width: 100%;
-  background-color: #a03535;
+  background-color: #87aed4;
   font-size: 100%;
   /* 16px */
   line-height: 1.5;
@@ -233,7 +233,7 @@ div.right {
   right: 0;
   width: 20%;
   height: 100%;
-  background-color: #AD3939;
+  background-color: #BCDEFF;
   -ms-box-sizing: border-box;
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
