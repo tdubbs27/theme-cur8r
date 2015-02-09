@@ -7,7 +7,7 @@
     More info at: http://lesselements.com
     MODIFIED BY: Brandon Brown
   ---------------------------------------------------*/
-* { color: #000000}
+* { background-color: #000000}
 
 * html .clearfix {
   zoom: 1;
@@ -887,6 +887,4 @@ div.pagination:after {
   line-height: 10pt;
   padding: 7px;
 }
-twitter-timeline {
-    Width: 20px;
-}
+
